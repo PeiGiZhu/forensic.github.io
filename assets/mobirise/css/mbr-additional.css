@@ -1090,7 +1090,11 @@ a {
 }
 .cid-tM0lKMhdG6 {
   display: flex;
-  background-color: #9c98cf;
+  background-image: url("../../../assets/images/arms.jpg");
+}
+.cid-tM0lKMhdG6 .mbr-overlay {
+  background-color: #ffa600;
+  opacity: 0.5;
 }
 .cid-tM0lKMhdG6 .content-wrap {
   padding: 5rem 1rem;
@@ -1123,10 +1127,12 @@ a {
 }
 .cid-tM0lKMhdG6 .mbr-section-title {
   text-align: center;
+  color: #f92c50;
 }
 .cid-tM0lKMhdG6 .mbr-text,
 .cid-tM0lKMhdG6 .mbr-section-btn {
   text-align: center;
+  color: #f92c50;
 }
 .cid-tM09ley31l {
   padding-top: 6rem;
